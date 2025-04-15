@@ -13,7 +13,7 @@
 
 ## 💼 Projects
 
-- **Collegium** – A student social platform with categorized posts, global/regional/city-based chatrooms, and community engagement tools.
+- **Collegium** – A student social platform, upcoming soon...
 - **Hospital Management System** – Backend application with API-driven logic to manage staff, duty schedules, and authentication.
 
 ## 🔧 Technologies & Tools
