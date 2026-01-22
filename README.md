@@ -1,15 +1,13 @@
 # 👋 Hi, I’m @OmerCicek87
 
-🎓 I'm a 3rd-year Computer Science student passionate about building meaningful tech — from smart mobile applications to automation tools. Currently, I'm working on my diploma project **Collegium**, a community-focused app designed to connect university students through shared majors and social events.
+🎓 I'm a 4th year Computer Science student passionate about building meaningful tech — from smart mobile applications to automation tools. Currently, I'm working on my diploma project **Collegium**, a community-focused app designed to connect university students through shared majors and social events.
 
 ## 🚀 Current Focus
 
-- 🎯 **Collegium App**: A cross-platform mobile application built with **React Native** & **TypeScript**, powered by a custom backend with **PostgreSQL**.
+- 🎯 **Collegium App**: A cross-platform mobile application built with **React Native** & **TypeScript**, powered by **Supabase**.
 - 🧠 **Learning by Building**: I create real-world projects to master technologies like:
   - **React / React Native**
-  - **Java & Spring Boot**
   - **Zustand / Redux** for state management
-- 📚 Documenting my journey in a personal Notion handbook.
 
 ## 💼 Projects
 
