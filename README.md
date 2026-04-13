@@ -1,34 +1,45 @@
-# 👋 Hi, I’m @OmerCicek87
+# Bekir Ömer Çiçek
 
-🎓 I'm a 4th year Computer Science student passionate about building meaningful tech — from smart mobile applications to automation tools. Currently, I'm working on my diploma project **Collegium**, a community-focused app designed to connect university students through shared majors and social events.
+Full-stack mobile developer and co-founder based in Poznań, Poland. I build products end-to-end — from database schema and backend architecture to mobile UI and App Store deployment.
 
-## 🚀 Current Focus
+Currently co-founding **[OffCircl](https://offcircl.com)** — a social event discovery platform for international and Erasmus students across Europe, launching September 2026.
 
-- 🎯 **Collegium App**: A cross-platform mobile application built with **React Native** & **TypeScript**, powered by **Supabase**.
-- 🧠 **Learning by Building**: I create real-world projects to master technologies like:
-  - **React / React Native**
-  - **Zustand / Redux** for state management
+---
 
-## 💼 Projects
+## What I'm Building
 
-- **Collegium** – A student social platform, upcoming soon...
-- **Hospital Management System** – Backend application with API-driven logic to manage staff, duty schedules, and authentication.
+### OffCircl
+A full-stack social platform built across four codebases:
+- **Mobile app** — React Native / Expo / TypeScript, live on the App Store
+- **Admin panel** — Next.js, deployed on Vercel
+- **Community Hub** — Vite + React + shadcn/ui, for city-level Community Ambassadors
+- **Backend** — Supabase (PostgreSQL, RLS, Edge Functions, 80+ RPC functions, PostGIS)
 
-## 🔧 Technologies & Tools
+Features include real-time group messaging, push notifications, OAuth + Apple Sign In, QR check-in, partner analytics with PDF exports, and a full ambassador management system.
 
-- **Languages**: Java, JavaScript, TypeScript, Python, C#, 
-- **Frameworks**: React Native, React, Spring Boot, Express.js
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Git, WebStorm, Notion, VS Code, Postman
-- **Currently Exploring**: Docker, Microservices Architecture
+---
 
-## ✨ Goals for 2025
+## Stack
 
-- 🧱 Launch **Collegium** publicly.
-- 💼 Start freelancing business websites & automation scripts and more.
+**Mobile:** React Native, Expo, EAS Build  
+**Frontend:** React, Next.js, Vite, TypeScript, Tailwind CSS  
+**Backend:** Supabase, PostgreSQL, Node.js, REST APIs  
+**Infrastructure:** Vercel, Cloudflare Workers, Docker  
+**Other:** Python, C#, PostGIS, Git, Jira, Notion  
 
-## 📫 Let's Connect!
+---
 
-I'm always open to collaborate, learn, or just chat!
+## Experience
 
-- 💼 https://www.linkedin.com/in/bekiromercicek/
+- **Co-Founder & Lead Developer** — OffCircl *(2025 – present)*
+- **IT Application Intern** — Daimler Truck / Mercedes-Benz *(2025)*
+- **Junior React Native Developer** — When App *(2024)*
+- **Web Developer Intern** — FDN Soft *(2024)*
+- **Software Developer** — IlkeMedia *(2023)*
+- **Software Engineering Intern** — Ponsatlas *(2023)*
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/bekiromercicek/) · [Email](mailto:bekiromercicek87@gmail.com)
