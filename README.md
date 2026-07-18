@@ -40,6 +40,15 @@ Features include real-time group messaging, push notifications, OAuth + Apple Si
 
 ---
 
+## Work with me
+
+I take on select freelance projects: AI integrations, Stripe/billing,
+and rescuing AI-built apps that need production hardening.
+
+🔗 bekiromercicek.com · Upwork: [Bekir Omer Cicek](https://www.upwork.com/freelancers/bekiromercicek) · omer@bekiromercicek.com
+
+---
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/bekiromercicek/) · [Email](mailto:bekiromercicek87@gmail.com)
