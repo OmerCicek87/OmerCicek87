@@ -2,7 +2,7 @@
 
 Full-stack mobile developer and co-founder based in Poznań, Poland. I build products end-to-end — from database schema and backend architecture to mobile UI and App Store deployment.
 
-Currently co-founding **[OffCircl](https://offcircl.com)** — a social event discovery platform for international and Erasmus students across Europe, launching September 2026.
+Currently founding **[OffCircl](https://offcircl.com)** — a social event discovery platform for international and Erasmus students across Europe, launching September 2026.
 
 ---
 
@@ -10,7 +10,7 @@ Currently co-founding **[OffCircl](https://offcircl.com)** — a social event di
 
 ### OffCircl
 A full-stack social platform built across four codebases:
-- **Mobile app** — React Native / Expo / TypeScript, live on the App Store
+- **Mobile app** — React Native / Expo / TypeScript, live on the App Store - Currently Out of Order
 - **Admin panel** — Next.js, deployed on Vercel
 - **Community Hub** — Vite + React + shadcn/ui, for city-level Community Ambassadors
 - **Backend** — Supabase (PostgreSQL, RLS, Edge Functions, 80+ RPC functions, PostGIS)
